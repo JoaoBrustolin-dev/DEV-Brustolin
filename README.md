@@ -1,6 +1,5 @@
 ## 🎓 Certificações (Alura e Santander)
 
-- [Santander Open Academy — Python (8 horas)](https://github.com/JoaoBrustolin-dev/DEV-Brustolin/blob/main/822_joaohenriquebrustolin457%40gmail.com.pdf)
 - [Ciência de Dados — Construindo uma Análise de Dados com Python](https://cursos.alura.com.br/certificate/brustolin-joao/ciencia-de-dados-construindo-uma-análise-de-dados-com-python)
 - [New JavaScript — Senhas Seguras e Matemática de Programação](https://cursos.alura.com.br/certificate/brustolin-joao/new-javascript-senhas-seguras-matematica-programacao)
 - [New JavaScript — Organizando Projetos e Matemática Aplicada](https://cursos.alura.com.br/certificate/brustolin-joao/new-javascript-organizando-projeto-vida-matematica-aplicada)
